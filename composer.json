@@ -14,6 +14,9 @@
   "suggest": {
     "ext-bcmath": "Need to support JSON deserialization"
   },
+  "replace": {
+    "ext-protobuf": "self.version"
+  },
   "autoload": {
     "psr-4": {
       "Google\\Protobuf\\": "src/Google/Protobuf",
