@@ -15,7 +15,7 @@
     "ext-bcmath": "Need to support JSON deserialization"
   },
   "provide": {
-    "ext-protobuf"
+    "ext-protobuf": "*"
   },
   "autoload": {
     "psr-4": {
